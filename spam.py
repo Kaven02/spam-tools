@@ -1,4 +1,4 @@
-import pyautogui, pyperclip, time, random
+import pyautogui, pyperclip, random, time
 messenger_ = input("Nội dung: ").split(" || ")
 times_ = int(input("Số lần=>>"))
 delay_ = float(input("Delay=>>"))
